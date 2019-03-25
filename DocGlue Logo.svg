@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="DocGlue Logo.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="266.75031"
+     inkscape:cy="752.50925"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot815"
+       style="font-style:normal;font-weight:bold;font-size:40px;line-height:1.25;font-family:Helvetica;letter-spacing:-5.72885799px;word-spacing:0px;fill:#2a2b2d;fill-opacity:1;stroke:none;-inkscape-font-specification:'Helvetica Bold';font-stretch:normal;font-variant:normal;"
+       transform="matrix(1.4571149,0,0,1.4571149,-131.32906,-480.89735)"
+       inkscape:export-xdpi="299.79999"
+       inkscape:export-ydpi="299.79999"
+       inkscape:export-filename="C:\Users\andy5\SideProject\doc-glue\docglue.png"><flowRegion
+         id="flowRegion817"
+         style="letter-spacing:-5.72885799px;-inkscape-font-specification:'Helvetica Bold';font-family:Helvetica;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;fill:#2a2b2d;fill-opacity:1;"><rect
+           id="rect819"
+           width="533.36053"
+           height="266.68027"
+           x="105.05586"
+           y="339.65146"
+           style="letter-spacing:-5.72885799px;-inkscape-font-specification:'Helvetica Bold';font-family:Helvetica;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;fill:#2a2b2d;fill-opacity:1;" /></flowRegion><flowPara
+         id="flowPara823"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Helvetica;-inkscape-font-specification:'Helvetica Bold';letter-spacing:-5.72885799px;fill:#2a2b2d;fill-opacity:1;">Doc</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot815-3"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:-5.72885799px;word-spacing:-0.13436939px;fill:#2a2b2d;fill-opacity:1;stroke:none;"
+       transform="matrix(1.4571149,0,0,1.4571149,-142.6576,-444.58035)"
+       inkscape:export-xdpi="299.79999"
+       inkscape:export-ydpi="299.79999"
+       inkscape:export-filename="C:\Users\andy5\SideProject\doc-glue\docglue.png"><flowRegion
+         id="flowRegion817-8"
+         style="letter-spacing:-5.72885799px;word-spacing:-0.13436939px;fill:#2a2b2d;fill-opacity:1;"><rect
+           id="rect819-7"
+           width="533.36053"
+           height="266.68027"
+           x="105.05586"
+           y="339.65146"
+           style="letter-spacing:-5.72885799px;word-spacing:-0.13436939px;fill:#2a2b2d;fill-opacity:1;" /></flowRegion><flowPara
+         id="flowPara823-0"
+         style="font-style:oblique;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Helvetica;-inkscape-font-specification:'Helvetica Bold Oblique';letter-spacing:-5.72885799px;word-spacing:-0.13436939px;fill:#2a2b2d;fill-opacity:1;">Glue</flowPara></flowRoot>    <ellipse
+       style="fill:#2a2b2d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.8261354;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path871"
+       cx="73.231857"
+       cy="53.517456"
+       rx="3.4745026"
+       ry="5.612659"
+       inkscape:export-filename="C:\Users\andy5\SideProject\doc-glue\docglue.png"
+       inkscape:export-xdpi="299.79999"
+       inkscape:export-ydpi="299.79999" />
+  </g>
+</svg>

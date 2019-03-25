@@ -20,7 +20,7 @@
     "deploy": "gh-pages -d build",
     "predeploy": "yarn run build"
   },
-  "homepage": "https://hardcore-hodgkin-449a03.netlify.com",
+  "homepage": "https://gluedog.netlify.com/",
   "eslintConfig": {
     "extends": "react-app"
   },
